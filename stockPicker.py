@@ -32,4 +32,4 @@ def StockPicker(arr):
 		maxcost = max(maxcost, cost)
 	return maxcost
 	
-print(StockPicker([10, 12, 4, 5, 9])
+print(StockPicker([10, 12, 4, 5, 9]))
